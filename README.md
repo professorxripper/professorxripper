@@ -2,7 +2,7 @@
 - 👀 I’m a student
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ Currently studying in CSE
-- 📫 You can contact with me on telegram at <a href="https://t.me/@ancient_modder_96>Telegram</a>
+- 📫 You can contact with me on telegram at <a href="https://t.me/@ancient_modder_96">Telegram</a>
 - 😄 Currently doing android development
 - ⚡ Lazy af
 
